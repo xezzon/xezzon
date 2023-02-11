@@ -27,6 +27,8 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 ## tao 系列
 
+名字取自“道(tao)生一，一生二，二生三，三生万物”。
+
 [![tao](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao)](https://github.com/xezzon/tao)
 [![tao-addon-jpa](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-addon-jpa)](https://github.com/xezzon/tao-addon-jpa)
 [![tao-react](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-react)](https://github.com/xezzon/tao-react)
@@ -66,6 +68,8 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 - 对 JPA 接口扩展 QueryDSL
 
 ## geom 后台管理系统
+
+名字取自 "geometry"(几何)。
 
 [![geom-server](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-server)](https://github.com/xezzon/geom-server)
 [![geom-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-web)](https://github.com/xezzon/geom-web)
