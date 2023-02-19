@@ -33,7 +33,7 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 [![tao-addon-jpa](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-addon-jpa)](https://github.com/xezzon/tao-addon-jpa)
 
-[![tao-react](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-react)](https://github.com/xezzon/tao-react)
+[![tao-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-web)](https://github.com/xezzon/tao-web)
 
 ### tao-core
 
