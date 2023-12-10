@@ -25,58 +25,52 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 # 我开发的
 
-## tao 系列
-
-名字取自“道(tao)生一，一生二，二生三，三生万物”。
+## tao 基础组件
 
 [![tao](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao)](https://github.com/xezzon/tao)
 
-[![tao-addon-jpa](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-addon-jpa)](https://github.com/xezzon/tao-addon-jpa)
-
 [![tao-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-web)](https://github.com/xezzon/tao-web)
 
-### tao-core
+### tao-java
 
-后端开发中的一些常用组件与抽象定义：
+后端开发中的一些常用组件与接口定义。
 
-- 事件总线
-
-- 通用查询组件（CommonQuery）
-
-- 字典接口
-
-- 日志注解
-
-- 基础异常类
-
-- 树形数据结构
-
-- NewType 接口（参考 Rust 的 NewType 机制）
-
-### tao-spring-boot-starter
-
-对 [tao-core](#tao-core) 组件的 spring-boot 扩展：
-
-- 日志切面与拦截器
-
-- Result 结构
-
-### tao-addon-jpa
-
-对 [tao-core](#tao-core) 组件的 JPA 扩展：
-
-- 通用查询组件转换为 JPA 查询语句
-
-- 对 JPA 接口扩展 QueryDSL
-
-## geom 后台管理系统
-
-名字取自 "geometry"(几何)。
+## geom 基础设施服务
 
 [![geom-server](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-server)](https://github.com/xezzon/geom-server)
 
 [![geom-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-web)](https://github.com/xezzon/geom-web)
 
+### geom-service-auth
+
+提供认证、二次验证、与网关集成 SSO、菜单管理、功能权限、数据权限等功能的后端服务。发布为 Docker Image。
+
+### geom-service-admin
+
+提供字典管理、遥测集成、参数管理等功能的后端服务。发布为 Docker Image。
+
+### geom-service-openapi
+
+提供开放接口注册、订阅、校验、调试等功能的后端服务。发布为 Docker Image。
+
+### geom-java-sdk
+
+提供给其他后端微服务，用以调用 geom 微服务获取其服务的 Java SDK 包。发布为 jar 包。
+
+### geom-ts-sdk
+
+提供给前端，用以调用 geom 微服务获取其服务的 Typescript SDK 包。发布为 npm package。
+
+### geom-app-admin
+
+提供用户管理、角色管理、菜单管理、字典管理、参数管理、开放接口注册等功能的前端应用。发布为 Docker Image。
+
+### geom-app-openapi
+
+提供给第三方应用订阅、调试开放接口等功能的前端应用。发布为 Docker Image。
+
 # 我关注的
 
 [![rust-course](https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course)](https://github.com/sunface/rust-course)
+
+[![rCore-Tutorial-v3](https://github-readme-stats.vercel.app/api/pin/?username=rcore-os&repo=rCore-Tutorial-v3)](https://github.com/rcore-os/rCore-Tutorial-v3)
