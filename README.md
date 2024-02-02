@@ -23,6 +23,8 @@ GitHub: [https://github.com/xezzon](https://github.com/xezzon)
 
 Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b84cad0c548122835d009d?variant=dark&roadmaps=devops%2Csoftware-architect%2Crust)](https://roadmap.sh)
+
 # 我开发的
 
 ## tao 基础组件
