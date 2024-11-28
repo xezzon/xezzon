@@ -31,15 +31,13 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 [![tao](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao)](https://github.com/xezzon/tao)
 
-[![tao-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao-web)](https://github.com/xezzon/tao-web)
-
 ### tao-java
 
 后端开发中的一些常用组件与接口定义。
 
 ## geom 基础设施服务
 
-[![geom-server](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-server)](https://github.com/xezzon/geom-server)
+[![geom-server](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-spring-boot)](https://github.com/xezzon/geom-spring-boot)
 
 [![geom-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-web)](https://github.com/xezzon/geom-web)
 
@@ -76,3 +74,5 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 [![rust-course](https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course)](https://github.com/sunface/rust-course)
 
 [![rCore-Tutorial-v3](https://github-readme-stats.vercel.app/api/pin/?username=rcore-os&repo=rCore-Tutorial-v3)](https://github.com/rcore-os/rCore-Tutorial-v3)
+
+[![Asterinas](https://github-readme-stats.vercel.app/api/pin/?username=asterinas&repo=asterinas)](https://github.com/asterinas/asterinas)
