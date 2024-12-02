@@ -35,37 +35,37 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 后端开发中的一些常用组件与接口定义。
 
-## geom 基础设施服务
+## ZeroWeb 基础设施服务
 
-[![geom-server](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-spring-boot)](https://github.com/xezzon/geom-spring-boot)
+[![ZeroWeb 后端](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=zeroweb-spring)](https://github.com/xezzon/zeroweb-spring)
 
-[![geom-web](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=geom-web)](https://github.com/xezzon/geom-web)
+[![ZeroWeb 网页端](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=zeroweb-fe)](https://github.com/xezzon/zeroweb-fe)
 
-### geom-service-auth
+### zeroweb-service-auth
 
 提供认证、二次验证、与网关集成 SSO、菜单管理、功能权限、数据权限等功能的后端服务。发布为 Docker Image。
 
-### geom-service-admin
+### zeroweb-service-admin
 
 提供字典管理、遥测集成、参数管理等功能的后端服务。发布为 Docker Image。
 
-### geom-service-openapi
+### zeroweb-service-openapi
 
 提供开放接口注册、订阅、校验、调试等功能的后端服务。发布为 Docker Image。
 
-### geom-java-sdk
+### zeroweb-java-sdk
 
-提供给其他后端微服务，用以调用 geom 微服务获取其服务的 Java SDK 包。发布为 jar 包。
+提供给其他后端微服务，用以调用 zeroweb 微服务获取其服务的 Java SDK 包。发布为 jar 包。
 
-### geom-ts-sdk
+### zeroweb-ts-sdk
 
-提供给前端，用以调用 geom 微服务获取其服务的 Typescript SDK 包。发布为 npm package。
+提供给前端，用以调用 zeroweb 微服务获取其服务的 Typescript SDK 包。发布为 npm package。
 
-### geom-app-admin
+### zeroweb-app-admin
 
 提供用户管理、角色管理、菜单管理、字典管理、参数管理、开放接口注册等功能的前端应用。发布为 Docker Image。
 
-### geom-app-openapi
+### zeroweb-app-openapi
 
 提供给第三方应用订阅、调试开放接口等功能的前端应用。发布为 Docker Image。
 
