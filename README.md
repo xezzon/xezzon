@@ -27,52 +27,24 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 # 我开发的
 
-## tao 基础组件
-
-[![tao](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=tao)](https://github.com/xezzon/tao)
-
-### tao-java
-
-后端开发中的一些常用组件与接口定义。
-
 ## ZeroWeb 基础设施服务
 
-[![ZeroWeb 后端](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=zeroweb-spring)](https://github.com/xezzon/zeroweb-spring)
+[![ZeroWeb 后端](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=zeroweb-spring)](https://github.com/xezzon/zeroweb-spring)
 
-[![ZeroWeb 网页端](https://github-readme-stats.vercel.app/api/pin/?username=xezzon&repo=zeroweb-fe)](https://github.com/xezzon/zeroweb-fe)
+[![ZeroWeb 网页端](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=zeroweb-fe)](https://github.com/xezzon/zeroweb-fe)
 
-### zeroweb-service-auth
+## Agent 配置统一分发工具
 
-提供认证、二次验证、与网关集成 SSO、菜单管理、功能权限、数据权限等功能的后端服务。发布为 Docker Image。
+[![Agent Maestro](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=agent-maestro)](https://github.com/xezzon/agent-maestro)
 
-### zeroweb-service-admin
-
-提供字典管理、遥测集成、参数管理等功能的后端服务。发布为 Docker Image。
-
-### zeroweb-service-openapi
-
-提供开放接口注册、订阅、校验、调试等功能的后端服务。发布为 Docker Image。
-
-### zeroweb-java-sdk
-
-提供给其他后端微服务，用以调用 zeroweb 微服务获取其服务的 Java SDK 包。发布为 jar 包。
-
-### zeroweb-ts-sdk
-
-提供给前端，用以调用 zeroweb 微服务获取其服务的 Typescript SDK 包。发布为 npm package。
-
-### zeroweb-app-admin
-
-提供用户管理、角色管理、菜单管理、字典管理、参数管理、开放接口注册等功能的前端应用。发布为 Docker Image。
-
-### zeroweb-app-openapi
-
-提供给第三方应用订阅、调试开放接口等功能的前端应用。发布为 Docker Image。
+[![Agent Maestro Plugin](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=maestro-plugin-kimi-code)](https://github.com/xezzon/maestro-plugin-kimi-code)
 
 # 我关注的
 
-[![rust-course](https://github-readme-stats.vercel.app/api/pin/?username=sunface&repo=rust-course)](https://github.com/sunface/rust-course)
+[![rust-course](https://github-stats-extended.vercel.app/api/pin/?username=sunface&repo=rust-course)](https://github.com/sunface/rust-course)
 
-[![rCore-Tutorial-v3](https://github-readme-stats.vercel.app/api/pin/?username=rcore-os&repo=rCore-Tutorial-v3)](https://github.com/rcore-os/rCore-Tutorial-v3)
+[![rCore-Tutorial-v3](https://github-stats-extended.vercel.app/api/pin/?username=rcore-os&repo=rCore-Tutorial-v3)](https://github.com/rcore-os/rCore-Tutorial-v3)
 
-[![Asterinas](https://github-readme-stats.vercel.app/api/pin/?username=asterinas&repo=asterinas)](https://github.com/asterinas/asterinas)
+[![Asterinas](https://github-stats-extended.vercel.app/api/pin/?username=asterinas&repo=asterinas)](https://github.com/asterinas/asterinas)
+
+[![Pingora](https://github-stats-extended.vercel.app/api/pin/?username=cloudflare&repo=pingora)](https://github.com/cloudflare/pingora)
