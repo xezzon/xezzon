@@ -37,7 +37,7 @@ Email: [xezzon@outlook.com](mailto:xezzon@outlook.com)
 
 [![Agent Maestro](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=agent-maestro)](https://github.com/xezzon/agent-maestro)
 
-[![Agent Maestro Plugin](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=maestro-plugin-kimi-code)](https://github.com/xezzon/maestro-plugin-kimi-code)
+[![Agent Maestro Plugin](https://github-stats-extended.vercel.app/api/pin/?username=xezzon&repo=agent-maestro-plugins)](https://github.com/xezzon/agent-maestro-plugins)
 
 # 我关注的
 
